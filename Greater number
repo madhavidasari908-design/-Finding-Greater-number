@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+int a=200;
+int b=340;
+if( a > b){
+printf(" a is greater");
+}
+else{
+printf(" b i greater");
+}
